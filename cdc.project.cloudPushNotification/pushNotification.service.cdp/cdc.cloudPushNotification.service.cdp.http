@@ -1,0 +1,6 @@
+@cdc.cloudPushNotification.service.cdp_HostAddress = http://localhost:5017
+
+GET {{cdc.cloudPushNotification.service.cdp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
